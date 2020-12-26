@@ -1,0 +1,13 @@
+{
+    "name": "anto2oo/nova-dash-docset",
+    "type": "project",
+    "require": {
+        "godbout/dash-docset-builder": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Antonin",
+            "email": "antonin.guyot@icloud.com"
+        }
+    ]
+}
